@@ -16,4 +16,5 @@ FOUNDATION_EXPORT const unsigned char ExampleKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <ExampleKit/PublicHeader.h>
 
-
+#import <ExampleKit/EKObject.h>
+#import <ExampleKit/EKSession.h>
